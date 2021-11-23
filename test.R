@@ -7,6 +7,9 @@ git test for NERS 746
 You can work in this just like R markdown
 I added a few more changes to try to get it to commit changes.
 
-Here I am adding new changes
+#Making another header change
 
-###seeing if the header shows
+why is this important?
+so that I can collaborate on ```{r}
+mean(2,3,4)
+```
